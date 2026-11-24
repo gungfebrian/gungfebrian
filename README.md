@@ -23,10 +23,10 @@ Computer Engineering Student at ITS · Embedded & Systems
 
 I'm a **Computer Engineering** student at **Institut Teknologi Sepuluh Nopember (ITS)** who enjoys building software close to hardware and sensors:
 
-- Embedded firmware & IoT devices (`ESP32`, `BLE`)
+- Embedded firmware & IoT devices 
 - Robotics & actuator control systems
 - Native Apple apps with on-device computer vision
-- Lightweight backend services & developer tools
+- backend services & developer tools
 
 ---
 
